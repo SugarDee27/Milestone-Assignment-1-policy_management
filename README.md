@@ -30,7 +30,7 @@ policy_management/
 
 ## ⚙️ How to Run  
 
-### 1. Clone or Download Project  
+### 1. Download Project  
 If using GitHub:  
 ```bash
 git clone <your_repo_link>
@@ -40,8 +40,10 @@ Or download as a `.zip`, extract, and open the folder.
 
 ### 2. Run the Program  
 Make sure Python is installed (version 3.8+ recommended).  
-In the terminal or command prompt:  
-```bash
+In the terminal or command prompt (right click on an empty space inside the extracted folder while holding down the shift button on your keyboard
+From the options listed, click on "open Power shell windows here"
+Then enter the code below in the terminal:  
+```
 python main.py
 ```
 
