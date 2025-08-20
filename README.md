@@ -93,5 +93,5 @@ Payments:
 ---
 
 ## 📝 Notes
-- This project was developed as part of **Milestone Assignment 1** (Modules 1–3).  
+- This project was developed as part of **Milestone Assignment 1**.  
 - It demonstrates OOP best practices and clean separation of concerns across multiple files.  
